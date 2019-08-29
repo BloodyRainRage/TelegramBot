@@ -1,0 +1,8 @@
+Howdy
+This bot is using your telegram identifier and username to work properly. Your data will not be used for distribution.
+If you do not agree with that, type /end to stop using this bot
+List of what bot can:
+send you weather with /weather command.
+For now that's all. I continue improving this bot.
+You can contact me @BloodyRainRage
+If you're interested https://github.com/BloodyRainRage/TelegramBot
