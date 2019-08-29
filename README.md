@@ -1,4 +1,5 @@
 # TelegramBot
+!!THIS BOT DOES NOT WORK ALL THE TIME!!
 Simple telegram bot created for self education on java;
 For now it can send message with weather in city after request;
 Available commands:
