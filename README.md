@@ -1,6 +1,6 @@
 # TelegramBot
 This code is illustation for myself how not to do; 
-Should be completely remade
+Should be completely remade <p>
 Simple telegram bot created for self education on java;
 For now it can send message with weather in city after request;
 Available commands:
